@@ -9,3 +9,5 @@ It's a discord assistant made for fun. It does a couple of tasks like:
 
 Requirements:
 You need a groq account, discord account, and API keys from the news source.
+
+! The bot only responds for verified users for AI services. In this case, you could control it in the admin program.
